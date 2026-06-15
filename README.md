@@ -1,4 +1,4 @@
-# EIC Motor Insurance Dashboard (2014–2018)
+# EIC Motor Insurance Dashboard (2014-2018)
 
 ## Overview
 An interactive Power BI dashboard analysing the financial performance of EIC, one of the most prominent motor insurers operating between 2014 and 2018. The report uncovers key trends in premiums, claims, policy growth, and risk patterns across vehicle types and usage categories.
