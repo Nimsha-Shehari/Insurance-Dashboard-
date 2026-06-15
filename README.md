@@ -35,3 +35,4 @@ An interactive Power BI dashboard analysing the financial performance of EIC, on
 - `Insurance Dashboard.pbix` - Power BI source file
 - `Insurance Dashboard.pdf` - Exported dashboard screenshots
 - `Calendar.xlsx` - Dataset
+- `dashboard_preview.png` - Overview of the dashboard
