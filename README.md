@@ -30,5 +30,5 @@ An interactive Power BI dashboard analysing the financial performance of EIC, on
 3. **Summary Table** - Year-by-year financial performance
 
 ## Files
-- `EIC_Motor_Insurance.pbix` — Power BI source file
-- `dashboard_preview.pdf` — Exported dashboard screenshots
+- `EIC_Motor_Insurance.pbix` - Power BI source file
+- `dashboard_preview.pdf` - Exported dashboard screenshots
