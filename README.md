@@ -11,7 +11,7 @@ An interactive Power BI dashboard analysing the financial performance of EIC, on
 - 🔢 **38K** Total Claim Count
 
 ## Key Insights
-- The premium-to-claim ratio surged dramatically in Q2 2018, reaching 2.2x — signalling a significant shift in claims activity
+- The premium-to-claim ratio surged dramatically in Q2 2018, reaching 2.2x - signalling a significant shift in claims activity
 - **Motorcycles** led policy purchases (106K), yet most vehicle categories including Trucks, Pick-ups, and Automobiles recorded net claim losses
 - **General Cartage** had the lowest claim ratio (27%), making it the most profitable usage segment
 - **Toyota** vehicles accounted for the highest total claims at $2.59B, followed by Isuzu ($1.66B) and Iveco ($1.41B)
